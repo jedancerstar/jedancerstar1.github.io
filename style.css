@@ -1,6 +1,13 @@
-*{margin: 0; padding: 0; box-sizing: border-box;
-	font-family: 'Josefin Sans', ;
+@font-face{
+  font-family:je
+	  src: url(
+	  "JosefinSans-Regular");
 
+}
+
+
+*{margin: 0; padding: 0; box-sizing: border-box;
+	
 }
 
 
