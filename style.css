@@ -107,8 +107,9 @@ transition: all .5s ease;
 
 section .btnone{
 	
-	background: white;
+	background: #fff;
 	color: #000;
+	font-weight: bold;
 }
 
 .btnone:hover{
@@ -118,7 +119,8 @@ section .btnone{
 
 section .btntwo{
 	background-color: #00b894;
-
+	color: white;
+	font-weight: bold;
 
 
 }
