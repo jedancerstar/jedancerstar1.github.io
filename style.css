@@ -146,10 +146,15 @@ color: #00b894;
 
 }
 @keyframes changetext{
-	0%{ content: "Darjeeling"}
-    20%{ content: "Agra"}
-	35%{ content: "jaipur"}	
-	60%{ content: "kerala"}
-	80%{ content: "delhi"}
-	100%{ content: "jhansi"}
+	0%{ content: "Kamini Anand"}
+        15%{ content: "Sonam Yadav"}
+	20%{ content: "Roshni Ahirwar"}	
+	25%{ content: "Himani Sahu"}
+	50%{ content: "Poonam Verma"}
+	60%{ content: "Nisha Ahirwar"}
+	70%{ content: "Chetna Prajapati"}
+	80%{ content: "Yashvi khare"}
+	85%{ content: "Hina Ahirwar"}
+	90%{ content: "Priyanka Joshi"}
+	100%{ content: "Anjali Raikwar(mnu"}
 }
