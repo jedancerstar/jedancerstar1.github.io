@@ -6,7 +6,7 @@
 
 header{ 
 	width: 100%; height: 100vh;
-	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url(xo.jpeg);
+	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url(xo.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
@@ -142,10 +142,10 @@ color: #00b894;
 	0%{ content: "I"}
       
 	
-	50%{ content: "LOVE"}
+	3%{ content: "LOVE"}
 	
 	
-	85%{ content: "Ethical"}
+	4%{ content: "Ethical"}
 	
- 95%{ content: "Hacking"}
+ 5%{ content: "Hacking"}
 }
