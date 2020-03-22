@@ -139,13 +139,13 @@ color: #00b894;
 
 }
 @keyframes changetext{
-	0%{ content: "I"}
+	20%{ content: "I"}
       
 	
-	3%{ content: "LOVE"}
+	30%{ content: "LOVE"}
 	
 	
-	4%{ content: "Ethical"}
+	90%{ content: "Ethical"}
 	
- 5%{ content: "Hacking"}
+ 100%{ content: "Hacking"}
 }
