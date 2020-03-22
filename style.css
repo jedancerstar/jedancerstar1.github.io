@@ -139,15 +139,13 @@ color: #00b894;
 
 }
 @keyframes changetext{
-	0%{ content: "Kamini Anand"}
-        15%{ content: "Sonam Yadav"}
-	20%{ content: "Roshni Ahirwar"}	
-	25%{ content: "Himani Sahu"}
-	50%{ content: "Poonam Verma"}
-	60%{ content: "Nisha Ahirwar"}
-	70%{ content: "Chetna Prajapati"}
-	80%{ content: "Yashvi khare"}
-	85%{ content: "Hina Ahirwar"}
+	0%{ content: "I"}
+      
 	
-	95%{ content: "mnu"}
+	50%{ content: "LOVE"}
+	
+	
+	85%{ content: "Ethical"}
+	
+ 95%{ content: "Hacking"}
 }
